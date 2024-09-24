@@ -1,0 +1,39 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Status Key",
+      "description": "---------------------\n🟢  - Working\n🟡 - Under Development\n🟠 - Updating\n🔴 - Not Working\n🔵 - Unknown\n---------------------",
+      "color": 10485760,
+      "fields": [
+        {
+          "name": "🟢  - Working",
+          "value": "The app is working functionally with no to minimal errors."
+        },
+        {
+          "name": "🟡 - Under Development",
+          "value": "The app is currently under development and is not yet released. It should be available soon."
+        },
+        {
+          "name": "🟠 - Updating",
+          "value": "The app is currently updating and a stable release should be sent in downloads soon."
+        },
+        {
+          "name": "🔴 - Not Working",
+          "value": "The app is currently broken, not working, detected, or deleted (possibly due to legal action). More information should be displayed in downloads."
+        },
+        {
+          "name": "🔵 - Unknown",
+          "value": "The app is currently in an unknown state, usually due to limitations, or if the bot goes offline."
+        }
+      ],
+      "footer": {
+        "text": "Any questions, please make a ticket."
+      },
+      "thumbnail": {
+        "url": "https://github.com/Wes1ey117738/ImagesForDC/blob/main/Logo.png?raw=true"
+      }
+    }
+  ],
+  "attachments": []
+}
